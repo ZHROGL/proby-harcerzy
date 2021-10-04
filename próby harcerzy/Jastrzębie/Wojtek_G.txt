@@ -1,0 +1,15 @@
+1. ?
+2. +
+3. +
+4. ?(niech przyjedzie na rowerach)
+5. ?
+6. +
+7. - (zagra z oskarem na ognisku)
+8. - (opowie o Ince)
+9. ?
+10. (pomoże przygotować grę)
+11. xD
+
+? : zapytać
++ : zdane
+- : niezdane

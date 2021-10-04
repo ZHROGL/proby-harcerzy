@@ -2,7 +2,7 @@
 $rys = 12;
 $orl = 12.0001;
 
-$pass = $_GET['passwd'];
+$pass = $_POST['passwd'];
 if($pass == 'superhaslo'){
     echo("<table style='border-collapse: collapse'>");
     echo('<tr>');
